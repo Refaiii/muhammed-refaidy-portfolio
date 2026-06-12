@@ -1,0 +1,21 @@
+HOW TO RUN THIS PORTFOLIO
+
+1. Extract the ZIP file.
+2. Open the folder "Muhammed_Refaidy_Portfolio" in VS Code.
+3. Open terminal inside this folder.
+4. Run: npm install
+5. Run: npm run dev
+6. Open the local URL shown by Vite, usually: http://localhost:5173/
+
+TO VIEW ON PHONE
+1. Make sure laptop and phone are connected to the same Wi-Fi.
+2. In terminal run: npm run dev -- --host 0.0.0.0
+3. Open the Network URL shown in terminal on your phone, for example: http://192.168.x.x:5173/
+4. If it does not open, allow Node.js/Vite through Windows Firewall.
+
+CONTACT LINKS INCLUDED
+- Email: refaii03@gmail.com
+- Phone: +91 884 890 4913
+- WhatsApp: +91 884 890 4913
+- GitHub: https://github.com/Refaiii
+- LinkedIn: https://www.linkedin.com/in/muhammed-refaidy-834b34323
